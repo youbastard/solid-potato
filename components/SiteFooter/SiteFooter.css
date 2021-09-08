@@ -1,0 +1,6 @@
+.site-footer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  @apply p-2;
+}

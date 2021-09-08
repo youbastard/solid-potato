@@ -1,0 +1,12 @@
+.site-header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  @apply p-2;
+}
+
+.site-header__title {
+  color: #3b6330;
+  @apply text-3xl font-bold tracking-wide lowercase;
+}

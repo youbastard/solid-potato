@@ -1,0 +1,25 @@
+.tags {
+  position:relative;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  @apply text-gray-800 text-xs;
+}
+
+.tags__list {
+  display: flex;
+  flex: row;
+  gap: .5rem;
+}
+
+.tags__item {
+  position:relative;
+  @apply bg-gray-200 rounded-lg px-2 py-1 lowercase tracking-wide;
+  &:hover {
+    @apply bg-gray-400; 
+  }
+}
+
+.tags__link {
+  position:relative;
+}

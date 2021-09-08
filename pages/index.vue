@@ -12,8 +12,8 @@ export default {
     PostPreview
   },
   async asyncData ({ $content }) {
-    const posts = await $content('posts')
-      .only(['title', 'image', 'tags', 'slug'])
+    const posts = await $content('articles')
+      .only(['title', 'subtitle', 'cover', 'tags', 'slug'])
       .sortBy('createdAt', 'asc')
       .fetch();
     return {

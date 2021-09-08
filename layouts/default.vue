@@ -1,10 +1,8 @@
 <template>
-  <div class="bg-gray-50">
-    <SiteHeader class="bg-white" />
-    <main class="max-w-3xl m-auto">
-      <Nuxt />
-    </main>
-    <SiteFooter class="bg-white" />
+  <div class="layout">
+    <SiteHeader class="layout__header" />
+    <main class="layout__main"><Nuxt /></main>
+    <SiteFooter class="layout__footer" />
   </div>
 </template>
 
@@ -19,3 +17,21 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+  .layout {
+    display: flex;
+    flex-direction: column;
+
+    @apply bg-gray-50;
+  }
+
+  .layout__header,
+  .layout__footer {
+    @apply bg-white;
+  }
+
+  .layout__main {
+    @apply max-w-3xl m-auto;
+  }
+</style>

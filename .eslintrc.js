@@ -1,3 +1,5 @@
+const isDev = (process.env.NODE_ENV !== 'production');
+
 module.exports = {
   root: true,
   env: {
@@ -15,6 +17,7 @@ module.exports = {
   plugins: [
   ],
   rules: {
+    'no-console': [((isDev ? 'off' : 'error')), { allow: ['warn', 'error'] }],
     semi: [2, 'always'],
     'vue/singleline-html-element-content-newline': 0
   }

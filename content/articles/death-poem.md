@@ -9,21 +9,30 @@ imageCC: 'The jisei, or death poem, of Kuroki Hiroshi, a Japanese sailor who
   die, is calling out to his friends and about to die".'
 slug: death-poem
 ---
-The **[death poem](https://en.wikipedia.org/wiki/Death_poem) ** is a genre of poetry that developed in the literary traditions of East Asian cultures — most prominently in Japan as well as certain periods of Chinese history and Joseon Korea. They tend to offer a reflection on death — both in general and concerning the imminent death of the author — that is often coupled with a meaningful observation on life.
 
-> 旅に病んで
+The **[death poem](https://en.wikipedia.org/wiki/Death_poem)** is a genre of poetry that developed in the literary traditions of East Asian cultures — most prominently in Japan as well as certain periods of Chinese history and Joseon Korea. They tend to offer a reflection on death — both in general and concerning the imminent death of the author — that is often coupled with a meaningful observation on life.
 
-> 夢は枯れ野を
+<post-quote>
+<template #content>
+  旅に病んで
 
-> かけめぐる
+  夢は枯れ野を
 
----
+  かけめぐる
+</template>
+</post-quote>
 
+|||
 
-> Falling ill on a journey
+<post-quote>
+<template #content>
+  Falling ill on a journey
 
-> my dreams go wandering
+  my dreams go wandering
 
-> over withered fields
-
-— Matsuo Bashō
+  over withered fields
+</template>
+<template #citation>
+Matsuo Bashō
+</template>
+</post-quote>

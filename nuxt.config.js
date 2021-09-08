@@ -25,9 +25,18 @@ export default {
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
-  components: false,
+  // only import .vue files since we are writing the JS for each
+  // component in seperate files
+  // https://github.com/nuxt/components#extensions
+  components: [
+    {
+      path: '~/components',
+      extensions: ['vue']
+    }
+  ],
 
-  // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
+  // Modules for dev and build (recommended):
+  // https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',

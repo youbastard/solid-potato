@@ -1,5 +1,5 @@
 export default {
-  name: 'Image',
+  name: 'PostImage',
   props: {
     src: { type: String, default: null },
     alt: { type: String, default: null },

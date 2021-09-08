@@ -1,10 +1,10 @@
 <template>
-  <nuxt-link :to="`/post/${slug}`">
-    <article class="post-preview">
-      <div>{{ title }}</div>
-      <tags v-if="hasTags" :tags="tags" />
-    </article>
-  </nuxt-link>
+  <article class="post-preview">
+    <nuxt-link :to="`/post/${slug}`">
+      <h2 class="text-2xl font-bold">{{ title }}</h2>
+    </nuxt-link>
+    <tags v-if="hasTags" :tags="tags" />
+  </article>
 </template>
 
 <script src="./PostPreview.js" />

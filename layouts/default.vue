@@ -23,7 +23,7 @@ export default {
     display: flex;
     flex-direction: column;
 
-    @apply bg-gray-50;
+    @apply bg-gray-50 container;
   }
 
   .layout__header,

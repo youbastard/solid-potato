@@ -1,22 +1,10 @@
 <template>
-  <div class="layout">
+  <div>
     <SiteHeader class="layout__header" />
-    <main class="layout__main"><Nuxt /></main>
-    <SiteFooter class="layout__footer" />
+    <Nuxt class="layout__main" />
+    <!-- <SiteFooter class="layout__footer" /> -->
   </div>
 </template>
-
-<script>
-import SiteHeader from '@/components/SiteHeader/SiteHeader.vue';
-import SiteFooter from '@/components/SiteFooter/SiteFooter.vue';
-
-export default {
-  components: {
-    SiteHeader,
-    SiteFooter
-  }
-};
-</script>
 
 <style scoped>
   .layout {
@@ -34,6 +22,6 @@ export default {
   }
 
   .layout__main {
-    @apply max-w-3xl m-auto flex-grow;
+    @apply max-w-xl m-auto flex-grow;
   }
 </style>

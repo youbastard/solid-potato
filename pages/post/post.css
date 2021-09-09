@@ -2,6 +2,14 @@
   position: relative;
 }
 
+.post__title {
+  @apply text-4xl font-black tracking-wider;
+}
+
+.post__title::first-letter {
+  color: var(--accent-red);
+}
+
 .post__more-links {
   border-top: 1px solid var(--text-secondary);
   @apply flex justify-between py-8;

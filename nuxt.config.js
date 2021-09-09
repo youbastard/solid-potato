@@ -19,7 +19,8 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/styles/theme/light.css',
-    '@/styles/theme/dark.css'
+    '@/styles/theme/dark.css',
+    '@/styles/links.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -65,7 +66,8 @@ export default {
   },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
-  content: {},
+  content: {
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {

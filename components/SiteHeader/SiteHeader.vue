@@ -1,9 +1,9 @@
 <template>
-  <nav class="site-header">
-    <h1 class="site-header__title"><nuxt-link to="/">Sa<span class="text-red-500">w</span>tooth</nuxt-link></h1>
+  <header class="site-header" role="banner">
+    <nuxt-link to="/" class="site-header__title" title="Visit the main page">Sawtooth</nuxt-link>
     <theme-toggle />
-    <search-bar />
-  </nav>
+    <!-- <search-bar /> -->
+  </header>
 </template>
 
 <script src="./SiteHeader.js" />

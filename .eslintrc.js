@@ -18,6 +18,7 @@ module.exports = {
   ],
   rules: {
     'no-console': [((isDev ? 'off' : 'error')), { allow: ['warn', 'error'] }],
+    'no-unused-vars': (isDev ? 'warn' : 'error'),
     semi: [2, 'always'],
     'vue/singleline-html-element-content-newline': 0,
     'vue/multiline-html-element-content-newline': 0

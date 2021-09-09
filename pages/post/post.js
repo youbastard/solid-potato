@@ -25,7 +25,9 @@ export default {
   },
   computed: {
     articleDate () {
-      return this.article.date;
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+      const date = new Date(this.article.createdAt);
+      return date.toLocaleDateString('en-US', options);
     }
   }
 };

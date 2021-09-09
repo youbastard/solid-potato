@@ -3,7 +3,8 @@
   display: flex;
   align-items: center;
   gap: 1rem;
-  @apply text-gray-800 text-xs;
+  color: var(--text-secondary);
+  @apply text-xs;
 }
 
 .tags__list {
@@ -13,10 +14,11 @@
 }
 
 .tags__item {
-  position:relative;
-  @apply bg-gray-200 rounded px-2 py-1 lowercase tracking-wide;
+  position: relative;
+  background: var(--bg-tertiary);
+  @apply rounded px-1 py-1 lowercase tracking-wide;
   &:hover {
-    @apply bg-gray-400; 
+    background: var(--bg-secondary);
   }
 }
 

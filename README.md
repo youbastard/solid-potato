@@ -89,6 +89,8 @@ More information about the usage of this directory in [the documentation](https:
 - [Mahamaham Stampede](https://en.wikipedia.org/wiki/Mahamaham_stampede)
 - [The Z Machine](https://en.wikipedia.org/wiki/Z_Pulsed_Power_Facility)
 - [Pyotr Dolgov](https://en.wikipedia.org/wiki/Pyotr_Dolgov)
+- [10 Cent Beer Night](https://en.wikipedia.org/wiki/Ten_Cent_Beer_Night)
+- [Disco Demolition Night](https://en.wikipedia.org/wiki/Disco_Demolition_Night)
 
 ---
 

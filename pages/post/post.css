@@ -1,10 +1,17 @@
 .post {
   position: relative;
 }
+
 .post__more-links {
-  @apply flex justify-between;
+  border-top: 1px solid var(--text-secondary);
+  @apply flex justify-between py-8;
 }
 
 .post__more-button {
-  @apply bg-gray-900 rounded p-2 text-white text-sm;
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  @apply rounded p-2 text-sm;
+  &:hover {
+    background: var(--bg-tertiary);
+  }
 }

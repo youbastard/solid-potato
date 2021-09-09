@@ -1,3 +1,12 @@
 .theme-toggle {
   position: relative;
+  background: var(--bg-alt);
+  & :hover {
+    background: var(--bg-primary);
+  }
+}
+
+.theme-toggle__icon {
+  @apply h-10 w-10 p-2 rounded;
+  color: var(--text-primary);
 }

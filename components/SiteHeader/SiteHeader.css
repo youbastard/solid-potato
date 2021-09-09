@@ -7,6 +7,5 @@
 }
 
 .site-header__title {
-  color: #3b6330;
-  @apply text-3xl font-bold tracking-wide lowercase;
+  @apply text-3xl font-bold tracking-wide lowercase flex-grow;
 }

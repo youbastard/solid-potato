@@ -22,16 +22,18 @@ export default {
   .layout {
     display: flex;
     flex-direction: column;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
 
-    @apply bg-gray-50 container;
+    @apply min-h-screen;
   }
 
   .layout__header,
   .layout__footer {
-    @apply bg-white;
+    background-color: var(--bg-secondary);
   }
 
   .layout__main {
-    @apply max-w-3xl m-auto;
+    @apply max-w-3xl m-auto flex-grow;
   }
 </style>

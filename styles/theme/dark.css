@@ -1,0 +1,13 @@
+:root[data-theme-dark] {
+  --bg-primary: #374151;
+  --bg-secondary: #1f2937;
+  --bg-tertiary: #1a1a1a;
+
+  --text-primary: #f9fafb;
+  --text-secondary: #f3f4f6;
+
+  --accent-red: #dc2626;
+  --accent-yellow: #fcd34d;
+  --accent-blue: #2563eb;
+  --accent-green: #059669;
+}

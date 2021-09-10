@@ -1,13 +1,13 @@
 ---
 title: Tesla Cybertruck
-date: 2020-06-19T02:19:48.020Z
+date: 2020-06-19
 subtitle: We can fix it later
 cover: /images/1920px-20191121-tesla-cybertruck-shattered-windows-url.jpg
 tags: ['tesla', 'cars']
 slug: tesla-cybertruck
 ---
 
-![Kraft Singles](/images/1920px-20191121-tesla-cybertruck-shattered-windows-url.jpg)
+![Tesla Cybertruck](/images/1920px-20191121-tesla-cybertruck-shattered-windows-url.jpg)
 
 The **[Tesla Cybertruck](https://en.wikipedia.org/wiki/Tesla_Cybertruck)** is an all-electric, battery-powered, light commercial vehicle launched by Elon Musk’s Tesla, Inc.
 

@@ -1,6 +1,6 @@
 ---
 title: Ballooning (Spiders)
-date: 2020-06-19T02:36:43.656Z
+date: 2020-06-19
 subtitle: flying spiders
 cover: /images/ballooning_spiderlings.jpg
 tags: ['spiders', 'nature', 'insects', 'nonononononono']

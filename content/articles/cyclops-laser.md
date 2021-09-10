@@ -1,6 +1,6 @@
 ---
 title: Cyclops laser
-date: 2020-06-17T03:24:56.384Z
+date: 2020-06-17
 subtitle: nerds with lasers
 cover: /images/cyclops_laser_1975.jpg
 tags: ['science', 'lasers', 'fusion']

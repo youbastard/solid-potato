@@ -1,6 +1,6 @@
 ---
 title: Kraft Singles
-date: 2020-06-17T01:49:48.624Z
+date: 2020-06-17
 subtitle: a food-like substance
 cover: /images/1920px-Kraft_Singles.jpg
 tags: ['cheese', 'food', 'kraft']

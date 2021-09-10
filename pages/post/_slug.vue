@@ -27,5 +27,66 @@
   </main>
 </template>
 
-<script src="./post.js" />
-<style src="./post.css" scoped>
+<script>
+export default {
+  async asyncData ({ $content, params }) {
+    const { slug } = params;
+    const article = await $content('articles', slug).fetch();
+
+    // eslint-disable-next-line no-unused-vars
+    const [prev, next] = await $content('articles')
+      .only(['title', 'path'])
+      .sortBy('date')
+      .surround(slug)
+      .fetch();
+
+    return {
+      article,
+      slug,
+      next
+    };
+  },
+  data () {
+    return {
+      article: () => ({}),
+      next: () => ({}),
+      slug: null
+    };
+  },
+  computed: {
+    articleDate () {
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+      const date = new Date(this.article.createdAt);
+      return date.toLocaleDateString('en-US', options);
+    }
+  }
+};
+</script>
+
+<style>
+.post {
+  position: relative;
+}
+
+.post__title {
+  @apply text-4xl font-black tracking-wider;
+}
+
+.post__title::first-letter {
+  color: var(--accent-red);
+}
+
+.post__more-links {
+  border-top: 1px solid var(--text-secondary);
+  @apply flex justify-between py-8;
+}
+
+.post__more-button {
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  @apply rounded p-2 text-sm;
+  &:hover {
+    background: var(--bg-tertiary);
+  }
+}
+</style>

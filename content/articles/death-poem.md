@@ -1,6 +1,6 @@
 ---
 title: Death Poem
-date: 2020-06-20T18:26:53.408Z
+date: 2020-06-20
 cover: /images/death_poem_by_kuroki_hiroshi.jpg
 tags: ['death poem', 'literature', 'morbid']
 imageCC: 'The jisei, or death poem, of Kuroki Hiroshi, a Japanese sailor who

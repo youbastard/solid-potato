@@ -1,0 +1,7 @@
+.nuxt-content {
+
+}
+
+.nuxt-content p {
+  @apply py-4;
+}

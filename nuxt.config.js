@@ -20,7 +20,9 @@ export default {
   css: [
     '@/styles/theme/light.css',
     '@/styles/theme/dark.css',
-    '@/styles/links.css'
+    '@/styles/links.css',
+    '@/styles/markdown.css',
+    '@/styles/fonts.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -47,6 +49,7 @@ export default {
     '@nuxtjs/stylelint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    // import svg as components
     'nuxt-svg-loader'
   ],
 

@@ -1,5 +1,5 @@
-import IconSun from '@/assets/icon-sun.svg';
-import IconMoon from '@/assets/icon-moon.svg';
+import IconSun from '@/assets/icons/icon-sun.svg';
+import IconMoon from '@/assets/icons/icon-moon.svg';
 
 export default {
   name: 'ThemeToggle',

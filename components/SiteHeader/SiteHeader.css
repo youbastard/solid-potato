@@ -9,3 +9,7 @@
 .site-header__title {
   @apply text-3xl font-bold tracking-wide lowercase flex-grow;
 }
+
+.site-header__w {
+  color: var(--accent-red);
+}

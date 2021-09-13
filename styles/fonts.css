@@ -1,12 +1,12 @@
 
 @font-face {
-  font-family: 'Futura-PT-Book';
-  src: url('@/assets/fonts/futura-pt-book.otf') format('opentype');
+  font-family: 'Metropolis Medium';
+  src: url('@/assets/fonts/metropolis-medium.otf') format('opentype');
        font-weight: 400;
        font-display: swap;
        font-style: normal;
 }
 
 :root {
-  --font-sans: 'Futura-PT-Book', sans-serif;
+  --font-sans: 'Metropolis Medium', sans-serif;
 }

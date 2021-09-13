@@ -18,6 +18,7 @@ export default {
       e.preventDefault();
       this.html.toggleAttribute('data-theme-dark');
       this.isDark = this.html.hasAttribute('data-theme-dark');
+      localStorage.theme = (this.isDark) ? 'dark' : 'light';
     }
   },
   mounted () {

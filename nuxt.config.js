@@ -21,6 +21,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '@/styles/vars/colors.css',
     '@/styles/theme/light.css',
     '@/styles/theme/dark.css',
     '@/styles/links.css',

@@ -2,12 +2,14 @@
   display: flex;
   flex-direction: row;
   width: 100%;
-  justify-content: space-between;
-  @apply p-2;
+  justify-content: center;
+  align-items: center;
+  padding: .25rem;
+  flex-wrap: nowrap;
 }
 
 .site-header__title {
-  @apply text-3xl font-bold tracking-wide lowercase flex-grow;
+  @apply text-xl font-bold tracking-widest lowercase flex-grow;
 }
 
 .site-header__w {

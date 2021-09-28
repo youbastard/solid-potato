@@ -5,3 +5,12 @@
 .nuxt-content p {
   @apply py-4;
 }
+
+.nuxt-content a {
+  color: var(--accent-red);
+}
+
+.nuxt-content img {
+  border: .5rem solid var(--bg-secondary);
+  border-radius: .25rem;
+}

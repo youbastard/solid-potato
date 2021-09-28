@@ -1,8 +1,11 @@
-:root[data-theme-dark] {
-  --bg-primary: var(--eerie-black);
+:root[data-theme="dark"] {
+  --bg-primary: var(--abyss);
   --bg-secondary: var(--jet);
   --bg-tertiary: var(--sonic-silver);
 
+  --bg-form: var(--light-roast);
+
   --text-primary: var(--white);
   --text-secondary: var(--light-gray);
+  --text-form: var(--jet);
 }

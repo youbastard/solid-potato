@@ -1,15 +1,12 @@
 ---
-title: Mammalian Diving Reflex
 date: 2020-08-20
-subtitle: 
-cover: /images/
-tags: ['mammals', 'biology', 'science', 'people']
 slug: mammalian-diving-reflex
+tags: ['mammals', 'biology', 'science', 'people']
+title: Mammalian Diving Reflex
+url: https://en.wikipedia.org/wiki/Diving_reflex
 ---
 
-![](/images/)
-
-The **[diving reflex]()**, also known as the [b]diving response[b] and [b]mammalian diving reflex[b], is a set of physiological responses to immersion that overrides the basic homeostatic reflexes, and is found in all air-breathing vertebrates studied to date. It optimizes respiration by preferentially distributing oxygen stores to the heart and brain, enabling submersion for an extended time.
+The **diving reflex**, also known as the **diving response** and **mammalian diving reflex**, is a set of physiological responses to immersion that overrides the basic homeostatic reflexes, and is found in all air-breathing vertebrates studied to date. It optimizes respiration by preferentially distributing oxygen stores to the heart and brain, enabling submersion for an extended time.
 
 ## Therapeutic usage
 

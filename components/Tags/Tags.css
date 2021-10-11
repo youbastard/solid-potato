@@ -4,7 +4,7 @@
   align-items: center;
   gap: 1rem;
   color: var(--text-secondary);
-  @apply text-xs;
+  font-size: 0.625rem;
 }
 
 .tags__list {
@@ -16,10 +16,6 @@
 .tags__item {
   position: relative;
   background: var(--bg-tertiary);
-  @apply rounded px-1 py-1 lowercase tracking-wide;
-  &:hover {
-    background: var(--bg-secondary);
-  }
 }
 
 .tags__link {
@@ -27,5 +23,5 @@
 }
 
 .tags__label {
-  @apply text-gray-500;
+
 }

@@ -2,7 +2,6 @@
   <div class="layout">
     <SiteHeader class="layout__header" />
     <Nuxt class="layout__main" />
-    <!-- <SiteFooter class="layout__footer" /> -->
   </div>
 </template>
 
@@ -12,7 +11,7 @@
     flex-direction: column;
     background-color: var(--bg-primary);
     color: var(--text-primary);
-    font-family: var(--font-sans);
+    font-family: var(--font-base);
 
     @apply min-h-screen;
   }

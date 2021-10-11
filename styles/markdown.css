@@ -3,7 +3,7 @@
 }
 
 .nuxt-content p {
-  @apply py-4;
+  margin: 1rem 0;
 }
 
 .nuxt-content a {

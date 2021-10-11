@@ -1,16 +1,12 @@
 ---
-title: 10 Cent Beer Night
 date: 2021-08-30
-subtitle: 
-cover: /images/
-tags: ['sports', 'baseball', 'alcohol']
 slug: 10-cent-beer-night
+tags: ['sports', 'baseball', 'alcohol']
+title: 10 Cent Beer Night
+url: https://en.wikipedia.org/wiki/Ten_Cent_Beer_Night
 ---
 
-![](/images/)
-
-
-**[Ten Cent Beer Night](https://en.wikipedia.org/wiki/Ten_Cent_Beer_Night)** was a promotion held by Major League Baseball's Cleveland Indians during a game against the Texas Rangers at Cleveland Stadium on Tuesday, June 4, 1974.
+**Ten Cent Beer Night** was a promotion held by Major League Baseball's Cleveland Indians during a game against the Texas Rangers at Cleveland Stadium on Tuesday, June 4, 1974.
 
 
 The idea behind the promotion was to attract more fans to the game by offering cups of low-alcohol beer for just 10 cents each, a substantial discount on the regular price of 65 cents, with a limit of six beers per purchase but with no limit on the number of purchases made during the game.

@@ -1,12 +1,3 @@
-
-@font-face {
-  font-family: 'Metropolis Medium';
-  src: url('@/assets/fonts/metropolis-medium.otf') format('opentype');
-       font-weight: 400;
-       font-display: swap;
-       font-style: normal;
-}
-
 :root {
-  --font-sans: 'Georgia', serif;
+  --font-base: 'Spectral', 'Georgia', serif;
 }

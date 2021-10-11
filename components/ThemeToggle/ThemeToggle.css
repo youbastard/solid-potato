@@ -1,12 +1,16 @@
 .theme-toggle {
   position: relative;
   background: var(--bg-alt);
-  & :hover {
-    background: var(--bg-primary);
-  }
+}
+
+.theme-toggle:hover {
+  background: var(--bg-primary);
 }
 
 .theme-toggle__icon {
-  @apply h-10 w-10 p-2 rounded;
+  height: 2.5rem;
+  width: 2.5rem;
+  padding: .5rem;
+  border-radius: .25rem;
   color: var(--text-primary);
 }

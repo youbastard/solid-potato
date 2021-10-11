@@ -9,7 +9,9 @@
 }
 
 .site-header__title {
-  @apply text-xl font-bold tracking-widest lowercase flex-grow;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  text-transform: lowercase;
 }
 
 .site-header__w {

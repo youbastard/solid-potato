@@ -1,15 +1,12 @@
 ---
-title: Paradox of the Heap
 date: 2020-08-27
-subtitle: 
-cover: /images/440px-Tannin_heap.jpg
-tags: ['paradox', 'philosphy']
 slug: paradox-of-the-heap
+tags: ['paradox', 'philosphy']
+title: Paradox of the Heap
+url: https://en.wikipedia.org/wiki/Sorites_paradox
 ---
 
-![A Heap of sand](/images/440px-Tannin_heap.jpg)
-
-The **[sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox)** (sometimes known as the paradox of the heap) is a paradox that arises from vague predicates. A typical formulation involves a heap of sand, from which grains are individually removed. Under the assumption that removing a single grain does not turn a heap into a non-heap, the paradox is to consider what happens when the process is repeated enough times: is a single remaining grain still a heap? If not, when did it change from a heap to a non-heap?
+The **sorites paradox** (sometimes known as the paradox of the heap) is a paradox that arises from vague predicates. A typical formulation involves a heap of sand, from which grains are individually removed. Under the assumption that removing a single grain does not turn a heap into a non-heap, the paradox is to consider what happens when the process is repeated enough times: is a single remaining grain still a heap? If not, when did it change from a heap to a non-heap?
 
 
 1,000,000 grains is a heap.

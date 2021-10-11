@@ -1,5 +1,4 @@
 .post-quote {
   display: block;
-  @apply p-4 bg-gray-200;
-
+  padding: 1rem;
 }

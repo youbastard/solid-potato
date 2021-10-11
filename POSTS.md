@@ -1,30 +1,5 @@
-
-### In Progress
-- [Murmuration](https://en.wikipedia.org/wiki/Flocking_\(behavior\))
-- [Mammalian Diving Reflex](https://en.wikipedia.org/wiki/Diving_reflex)
-- [Sailing Stones](https://en.wikipedia.org/wiki/Sailing_stones)
-- [The Z Machine](https://en.wikipedia.org/wiki/Z_Pulsed_Power_Facility)
-- [Call of the Void](https://en.wikipedia.org/wiki/Suicidal_ideation)
-- [Jamais Vu](https://en.wikipedia.org/wiki/Jamais_vu)
-
-### Done
-
-- ✅[Kraft Singles](https://en.wikipedia.org/wiki/Kraft_Singles)
-- ✅[Cyclops Laser](https://en.wikipedia.org/wiki/Cyclops_laser)
-- ✅[Cybertruck](https://en.wikipedia.org/wiki/Tesla_Cybertruck)
-- ✅[Ballooning](https://en.wikipedia.org/wiki/Ballooning_(spider))
-- ✅[Death Poem](https://en.wikipedia.org/wiki/Death_poem)
-- ✅[Paradox of the Heap](https://en.wikipedia.org/wiki/Sorites_paradox)
-
-
-- [Anatoli Bugorski](https://en.wikipedia.org/wiki/Anatoli_Bugorski)
-
-- [Cross Sea](https://en.wikipedia.org/wiki/Cross_sea)
-
 - [Tianjin Explosions](https://en.wikipedia.org/wiki/2015_Tianjin_explosions)
-
 - [Mahamaham Stampede](https://en.wikipedia.org/wiki/Mahamaham_stampede)
-
 - [Pyotr Dolgov](https://en.wikipedia.org/wiki/Pyotr_Dolgov)
 
 - https://en.wikipedia.org/wiki/Hot_rod
@@ -454,3 +429,10 @@ Caldwell was notorious during his playing career for his addiction to alcohol an
 
 **Yet, despite his achievements on the field and his antics off it, Caldwell is perhaps best remembered for being struck by** [**lightning**](https://en.wikipedia.org/wiki/Lightning) **while playing for the** [**Cleveland Indians**](https://en.wikipedia.org/wiki/Cleveland_Indians) **against the** [**Philadelphia Athletics**](https://en.wikipedia.org/wiki/Philadelphia_Athletics) **in 1919; remarkably, despite being knocked unconscious, he refused to leave the game, having pitched 82⁄3 innings, and went on to record the final out for the win.**
 
+
+
+- [Tianjin Explosions](https://en.wikipedia.org/wiki/2015_Tianjin_explosions)
+- [Mahamaham Stampede](https://en.wikipedia.org/wiki/Mahamaham_stampede)
+- [Pyotr Dolgov](https://en.wikipedia.org/wiki/Pyotr_Dolgov)
+- [Disco Demolition Night](https://en.wikipedia.org/wiki/Disco_Demolition_Night)
+- [List of Accidents and Disasters](https://en.wikipedia.org/wiki/List_of_accidents_and_disasters_by_death_toll)

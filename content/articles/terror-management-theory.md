@@ -1,7 +1,7 @@
 ---
 date: 2020-06-30
 slug: terror-management-theory
-tags: [psychology, death]
+tags: ['psychology', 'death']
 title: Terror management theory
 url: https://en.wikipedia.org/wiki/Terror_management_theory
 ---

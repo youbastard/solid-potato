@@ -1,7 +1,7 @@
 ---
 date: 2020-06-30
 slug: murmuration
-tags: [biology]
+tags: ['biology']
 title: Murmuration
 url: https://en.wikipedia.org/wiki/Flocking_(behavior)
 ---

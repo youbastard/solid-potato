@@ -1,7 +1,7 @@
 ---
 date: 2020-06-30
 slug: call-of-the-void
-tags: [psychology, death, suicide]
+tags: ['psychology', 'death', 'suicide']
 title: Call of the Void
 url: https://en.wikipedia.org/wiki/Suicidal_ideation
 ---

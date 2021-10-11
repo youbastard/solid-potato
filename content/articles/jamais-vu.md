@@ -1,7 +1,7 @@
 ---
 date: 2020-06-30
 slug: jamais-vu
-tags: [psychology, science]
+tags: ['psychology', 'science']
 title: Jamais Vu
 url: https://en.wikipedia.org/wiki/Jamais_vu
 ---

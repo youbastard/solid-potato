@@ -1,7 +1,7 @@
 ---
 date: 2020-07-11
 slug: syncope
-tags: [medicine]
+tags: ['medicine']
 title: Syncope
 url: https://en.wikipedia.org/wiki/Syncope_\(medicine\)
 ---

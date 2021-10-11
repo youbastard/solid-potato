@@ -19,8 +19,8 @@ export default {
     ]
   },
 
-  // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '@/styles/global.css',
     '@/styles/vars/colors.css',
     '@/styles/theme/light.css',
     '@/styles/theme/dark.css',
@@ -51,32 +51,30 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
-    // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
     // import svg as components
-    'nuxt-svg-loader'
+    'nuxt-svg-loader',
+    // https://google-fonts.nuxtjs.org/
+    '@nuxtjs/google-fonts'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    // https://go.nuxtjs.dev/pwa
-    '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content'
   ],
 
-  // PWA module configuration: https://go.nuxtjs.dev/pwa
-  pwa: {
-    manifest: {
-      lang: 'en'
+  googleFonts: {
+    families: {
+      Spectral: {
+        wght: [400, 700],
+        ital: [400, 800]
+      }
     }
   },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {
-  },
-
-  // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {
+    fullTextSearchFields: ['title', 'description', 'slug', 'text']
   }
+
 };

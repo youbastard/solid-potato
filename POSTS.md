@@ -69,9 +69,6 @@
 
 - Mystery Science Theater 3000 - The final invention exchange occurred in episode 519, "Outlaw" (the seventh show featuring Nelson as the host), wherein the Mads presented "the first really real time machine" opposite Mike and the bots' "instant Fabio kit".
 
-- Pica - Pica is a medical disorder characterized by an appetite for substances largely non-nutritive foods (e.g. metal [coins, etc.], clay, coal, soil, feces, chalk, paper, soap, mucus, ash, gum, etc.)
-
-  In order for these actions to be considered pica,...
 
 - Being John Malkovich - John Malkovich claimed that he approached the character of "John Malkovich" as he would any other fictional role
 
@@ -320,10 +317,5 @@ Surprisingly often, the answer to these decision problems is "it cannot be done 
 
 
 If you see a person reaching for a jar of cookies, you might assume that he wants a cookie (even if you know the jar is empty).
-
-
-
-
-
 
 

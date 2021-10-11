@@ -1,5 +1,4 @@
 ---
-cover: /images/anatoli-bugorski.jpg
 date: 2021-09-01
 slug: anatoli-bugorski
 tags: ['people', 'science', 'medicine']

@@ -1,5 +1,4 @@
 ---
-cover: /images/ballooning-spiderlings.jpg
 date: 2020-06-19
 slug: ballooning-spiders
 tags: ['spiders', 'nature', 'insects', 'nonononononono']

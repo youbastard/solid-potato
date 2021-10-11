@@ -1,132 +1,67 @@
 - [Tianjin Explosions](https://en.wikipedia.org/wiki/2015_Tianjin_explosions)
 - [Mahamaham Stampede](https://en.wikipedia.org/wiki/Mahamaham_stampede)
 - [Pyotr Dolgov](https://en.wikipedia.org/wiki/Pyotr_Dolgov)
-
-- https://en.wikipedia.org/wiki/Hot_rod
-
-- https://en.wikipedia.org/wiki/Buddy_wrapping
-
-- https://en.wikipedia.org/wiki/Resuscitative_hysterotomy
-
-- https://en.wikipedia.org/wiki/Punt_gun
-
-- https://en.wikipedia.org/wiki/Gate_control_theory
-
-- https://en.wikipedia.org/wiki/Eradication_of_suffering
-
-- https://en.wikipedia.org/wiki/Axis_mundi
-
-- https://en.wikipedia.org/wiki/Tower_of_Babel
-
-- https://en.wikipedia.org/wiki/Origin_of_language
-
-- https://en.wikipedia.org/wiki/Pain_asymbolia
-
-- https://en.wikipedia.org/wiki/Ataxia
-
-- https://en.wikipedia.org/wiki/Grimace_scale_(animals)
-
-- https://en.wikipedia.org/wiki/Cryptomnesia
-
+- [Disco Demolition Night](https://en.wikipedia.org/wiki/Disco_Demolition_Night)
+- [Hot Rod](https://en.wikipedia.org/wiki/Hot_rod)
+- [Buddy Wrapping](https://en.wikipedia.org/wiki/Buddy_wrapping)
+- [Resuscitative_hysterotomy](https://en.wikipedia.org/wiki/Resuscitative_hysterotomy)
+- [Punt Gun](https://en.wikipedia.org/wiki/Punt_gun)
+- [Gate Control Theory](https://en.wikipedia.org/wiki/Gate_control_theory)
+- [Eradication of Suffering](https://en.wikipedia.org/wiki/Eradication_of_suffering)
+- [Axis Mundi](https://en.wikipedia.org/wiki/Axis_mundi)
+- [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel)
+- [Origin of Language](https://en.wikipedia.org/wiki/Origin_of_language)
+- [Pain Asymbolia](https://en.wikipedia.org/wiki/Pain_asymbolia)
+- [Ataxia](https://en.wikipedia.org/wiki/Ataxia)
+- [Grimace Scale](https://en.wikipedia.org/wiki/Grimace_scale_\(animals\))
+- [Cryptomnesia](https://en.wikipedia.org/wiki/Cryptomnesia)
+- [Trap Street](https://en.wikipedia.org/wiki/Trap_street)
+- [Optical Flat](https://en.wikipedia.org/wiki/Optical_flat)
+- [Ring of the fisherman](https://en.wikipedia.org/wiki/Ring_of_the_Fisherman)
 - Antikythera Mechanism
-
-- Ring of the fisherman
-
 - Criterion of Embarrassment
-
 - Mondegreen
-
 - Baroque Pearl
-
 - Baader-Meinhof Phenomenon
-
 - Ookie Cookie
-
 - Green Eyeshade
-
 - Fog Bow
-
 - Cthulhu
-
 - Spanish Fly
-
 - Il Cannone Guarnerius
-
 - Niccolo Paganini 
-
 - Poe's Law
-
 - Biosphere 2
-
 - Fist of the North Star
-
 - Perfect Strangers
-
 - Brachiation
-
 - Scare Quotes
-
 - Artificial Scarcity
-
 - Boards of Canada
-
 - Ambergris
-
 - Sho'nuff, the Shogun of Harlem
-
 - Documentary Hypothosis
-
 - Saturn's Hexagon
-
 - Shepard Tone
-
 - Mir Diamond Mine
-
 - Shake (Aqua Teen Hunger Force)
-
 - Ortlan Bunting
-
-- Anatoli Petrovich
-
 - Reductionism
-
 - Action Park
-
 - Cyclocosmia (trap door spider)
-
 - Voynich Manuscript
-
 - Ikea Effect
-
-- Prosciutto
-
-- [**https://en.wikipedia.org/wiki/Prosciutto**](https://en.wikipedia.org/wiki/Prosciutto)
-
-  
-
-  
-
-  **Prosciutto** ([/prəˈʃuːtoʊ, proʊˈ-/](https://en.wikipedia.org/wiki/Help:IPA/English) [*prə-SHOO-toh, proh-*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key),[[1\]](https://en.wikipedia.org/wiki/Prosciutto#cite_note-1)[[2\]](https://en.wikipedia.org/wiki/Prosciutto#cite_note-2)[[3\]](https://en.wikipedia.org/wiki/Prosciutto#cite_note-3)[[4\]](https://en.wikipedia.org/wiki/Prosciutto#cite_note-4) Italian: [[proʃˈʃutto\]](https://en.wikipedia.org/wiki/Help:IPA/Italian))[[5\]](https://en.wikipedia.org/wiki/Prosciutto#cite_note-5) is an [Italian](https://en.wikipedia.org/wiki/Italian_cuisine) [dry-cured ham](https://en.wikipedia.org/wiki/Dry-cured_ham) that is usually thinly sliced and served uncooked; this style is called ***prosciutto crudo\*** in Italian (or simply ***crudo\***) and is distinguished from cooked ham, [*prosciutto cotto*](https://en.wikipedia.org/wiki/Prosciutto_cotto).
-
-  
-
-  
-
-  When I was young, there was one kind of prosciutto. It was made in the winter, by hand, and aged for two years. It was sweet when you smelled it. A profound perfume. Unmistakable. To age a prosciutto is a subtle business. If it's too warm, the aging process never begins. The meat spoils. If it's too dry, the meat is ruined. It needs to be damp but cool. The summer is too hot. In the winter—that's when you make [salumi](https://en.wikipedia.org/wiki/Salumi). Your prosciutto. Your [soppressata](https://en.wikipedia.org/wiki/Soppressata). Your [sausages](https://en.wikipedia.org/wiki/Sausage).[[10\]](https://en.wikipedia.org/wiki/Prosciutto#cite_note-10)
-
 - Gordie Howe Hat Trick
-
 - Werewolfism Cures
-
 - Ferret
-
 - Ghost Word
 
-- [Trap Street](https://en.wikipedia.org/wiki/Trap_street)
-
-- **https://en.wikipedia.org/wiki/Optical_flat**
 
 ---
+
+- [Prosciutto](https://en.wikipedia.org/wiki/Prosciutto)
+
+  When I was young, there was one kind of prosciutto. It was made in the winter, by hand, and aged for two years. It was sweet when you smelled it. A profound perfume. Unmistakable. To age a prosciutto is a subtle business. If it's too warm, the aging process never begins. The meat spoils. If it's too dry, the meat is ruined. It needs to be damp but cool. The summer is too hot. In the winter—that's when you make [salumi](https://en.wikipedia.org/wiki/Salumi). Your prosciutto. Your [soppressata](https://en.wikipedia.org/wiki/Soppressata). Your [sausages](https://en.wikipedia.org/wiki/Sausage).
 
 - Glenn Gould (one does not perceieve a two hour film was made in two hours)
 
@@ -139,8 +74,6 @@
   In order for these actions to be considered pica,...
 
 - Being John Malkovich - John Malkovich claimed that he approached the character of "John Malkovich" as he would any other fictional role
-
-- Syncope - It was fashionable for women to affect an aristocratic frailty and create a scene by fainting at a dramatic moment.
 
 - Ghostbusters - "...we believe that the purpose of science is to serve mankind. you, however, seem to regard science as some kind of dodge or hustle."
 
@@ -184,11 +117,11 @@
 
   
 
-  
+[Hammerhead Shark](http://en.wikipedia.org/wiki/Hammerhead_shark)
 
   "Reproduction only occurs once a year for hammerhead sharks and usually occurs with the male shark biting the female shark violently until she agrees to mate with him."
 
-  http://en.wikipedia.org/wiki/Hammerhead_shark#Reproduction
+
 
   
 
@@ -198,21 +131,6 @@
 
   
 
-  Sailing stones
-
-  The sailing stones are a geological phenomenon where rocks move in long tracks along a smooth valley floor without human or animal intervention. They have been recorded and studied in a number of places around Racetrack Playa, Death...
-
-  
-
-  
-
-  Z Machine - The Z machine is the largest X-ray generator in the world and is designed to test materials in conditions of extreme temperature and pressure. Operated by Sandia National Laboratories, it gathers data to aid in computer modeling of nuclear...
-
-  
-
-  
-
-  
 
   Cherenkov Radiation
 
@@ -270,17 +188,8 @@
 
   
 
-  
 
-  Death Poem
 
-  A death poem (辞世の句 jisei no ku) is a poem written near the time of one’s own death. It is a tradition for literate people to write one in a number of different cultures, especially in Japan.
-
-  As a once-in-a-lifetime event, it was common to...
-
-  
-
-  
 
   Fernet
 
@@ -324,6 +233,7 @@
 
   
 
+
   Orphans
 
   An orphan (from the Greek ὀρφανός) is a child permanently bereaved of his or her parents.
@@ -346,7 +256,7 @@
 
 ### Other Lists
 
-- [List of Accidents and Disasters](https://en.wikipedia.org/wiki/List_of_accidents_and_disasters_by_death_toll)
+
 - [Logical Paradoxes](https://en.wikipedia.org/wiki/Category:Logical_paradoxes)
 - [List of Sense](https://en.wikipedia.org/wiki/Category:Perception)
 - [List of Films considered the worst](https://en.wikipedia.org/wiki/List_of_films_considered_the_worst)
@@ -417,22 +327,3 @@ If you see a person reaching for a jar of cookies, you might assume that he want
 
 
 
-**Ray Caldwell**https://en.wikipedia.org/wiki/Ray_Caldwell
-
-**Raymond Benjamin Caldwell** (April 26, 1888 – August 17, 1967) was an American [Major league](https://en.wikipedia.org/wiki/Major_League_Baseball) [pitcher](https://en.wikipedia.org/wiki/Pitcher) from 1910 to 1921. He was known for throwing the [spitball](https://en.wikipedia.org/wiki/Spitball), and he was one of the 17 pitchers allowed to continue throwing the pitch after it was outlawed in 1920.
-
-
-
-Caldwell was notorious during his playing career for his addiction to alcohol and partying; he possessed a self-destructive streak that many of his contemporaries believed stopped him from reaching his potential. In 1924, [Miller Huggins](https://en.wikipedia.org/wiki/Miller_Huggins) wrote: 'Caldwell was one of the best pitchers that ever lived, but he was one of those characters that keep a manager in a constant worry. If he had possessed a sense of responsibility and balance, Ray Caldwell would have gone down in history as one of the greatest of all pitchers.' 
-
-
-
-**Yet, despite his achievements on the field and his antics off it, Caldwell is perhaps best remembered for being struck by** [**lightning**](https://en.wikipedia.org/wiki/Lightning) **while playing for the** [**Cleveland Indians**](https://en.wikipedia.org/wiki/Cleveland_Indians) **against the** [**Philadelphia Athletics**](https://en.wikipedia.org/wiki/Philadelphia_Athletics) **in 1919; remarkably, despite being knocked unconscious, he refused to leave the game, having pitched 82⁄3 innings, and went on to record the final out for the win.**
-
-
-
-- [Tianjin Explosions](https://en.wikipedia.org/wiki/2015_Tianjin_explosions)
-- [Mahamaham Stampede](https://en.wikipedia.org/wiki/Mahamaham_stampede)
-- [Pyotr Dolgov](https://en.wikipedia.org/wiki/Pyotr_Dolgov)
-- [Disco Demolition Night](https://en.wikipedia.org/wiki/Disco_Demolition_Night)
-- [List of Accidents and Disasters](https://en.wikipedia.org/wiki/List_of_accidents_and_disasters_by_death_toll)

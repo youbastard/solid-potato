@@ -30,8 +30,6 @@
 </template>
 
 <script>
-import PostArticle from '@/components/Post/Post.vue';
-
 export default {
   async asyncData ({ $content, params }) {
     const { slug } = params;

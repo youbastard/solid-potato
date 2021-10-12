@@ -19,3 +19,12 @@ $ npm run generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
+
+### Build Modules
+
+Modules for dev and build. See https://go.nuxtjs.dev/config-modules
+
+[ESLint](https://go.nuxtjs.dev/eslint)
+[StyleLint](https://go.nuxtjs.dev/stylelint)
+[Nuxt SVG Loader]()
+[Google Fonts](https://google-fonts.nuxtjs.org/)

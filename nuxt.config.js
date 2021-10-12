@@ -13,6 +13,8 @@ export default {
     ]
   },
 
+  srcDir: 'src/',
+
   css: [
     '@/styles/global.css',
     '@/styles/theme/dark.css',
@@ -23,7 +25,7 @@ export default {
 
   components: [
     {
-      path: '~/components',
+      path: '@/components',
       extensions: ['vue']
     }
   ],

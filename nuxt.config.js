@@ -13,24 +13,15 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ],
-    script: [
-      { src: '/scripts/theme.js' }
     ]
   },
 
   css: [
     '@/styles/global.css',
-    '@/styles/vars/colors.css',
-    '@/styles/theme/light.css',
     '@/styles/theme/dark.css',
     '@/styles/links.css',
     '@/styles/markdown.css',
     '@/styles/fonts.css'
-  ],
-
-  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -65,9 +56,9 @@ export default {
 
   googleFonts: {
     families: {
-      Spectral: {
+      Rubik: {
         wght: [400, 700],
-        ital: [400, 800]
+        ital: [400]
       }
     }
   },

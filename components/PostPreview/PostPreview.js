@@ -1,10 +1,5 @@
-import Tags from '@/components/Tags/Tags.vue';
-
 export default {
   name: 'PostPreview',
-  components: {
-    Tags
-  },
   computed: {
     hasTags () {
       return this.tags.length > 0;

@@ -1,27 +1,34 @@
 <template>
   <div class="layout">
-    <SiteHeader class="layout__header" />
+    <header class="layout__header">
+      <nuxt-link to="/" class="layout__title" title="Sawtooth">Sawtooth</nuxt-link>
+    </header>
     <Nuxt class="layout__main" />
   </div>
 </template>
 
 <style scoped>
-  .layout {
-    display: flex;
-    flex-direction: column;
-    background-color: var(--bg-primary);
-    color: var(--text-primary);
-    font-family: var(--font-base);
+.layout {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-base);
+}
 
-    @apply min-h-screen;
-  }
+.layout__header,
+.layout__footer {
+  background-color: var(--bg-secondary);
+}
 
-  .layout__header,
-  .layout__footer {
-    background-color: var(--bg-secondary);
-  }
+.layout__main {
+  margin: 0 auto;
+  flex-grow: 1;
+}
 
-  .layout__main {
-    @apply max-w-xl m-auto flex-grow;
-  }
+.layout__title {
+  font-size: 2rem;
+  letter-spacing: 1px;
+  text-transform: lowercase;
+}
 </style>

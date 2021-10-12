@@ -1,4 +1,4 @@
-:root[data-theme-dark] {
+:root {
   --bg-primary: var(--eerie-black);
   --bg-secondary: var(--jet);
   --bg-tertiary: var(--sonic-silver);

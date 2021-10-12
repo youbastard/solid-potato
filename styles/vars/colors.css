@@ -14,9 +14,9 @@
   --jet: hsla(0, 2%, 20%, 1);
   --eerie-black: hsla(0, 3%, 8%, 1);
 
-  /* 
+  /*
    * mid-luminence (~40% - 60%)
-   * nicely named accent colors 
+   * nicely named accent colors
    */
   --tart-orange: hsla(359, 96%, 62%, 1);
   --orange-red: hsla(21, 93%, 56%, 1);
@@ -25,5 +25,4 @@
   --yellow-green: hsla(94, 58%, 59%, 1);
   --mountain-meadow: hsla(162, 62%, 46%, 1);
   --spanish-blue: hsla(208, 49%, 45%, 1);
-  
 }

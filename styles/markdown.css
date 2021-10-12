@@ -1,5 +1,6 @@
 .nuxt-content {
-
+  position: relative;
+  font-size: 18px;
 }
 
 .nuxt-content p {
@@ -11,6 +12,6 @@
 }
 
 .nuxt-content img {
-  border: .5rem solid var(--bg-secondary);
-  border-radius: .25rem;
+  border: 0.5rem solid var(--bg-secondary);
+  border-radius: 0.25rem;
 }

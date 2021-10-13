@@ -3,13 +3,23 @@ export default {
 
   srcDir: 'src/',
 
-  css: [
-    '@/styles/global.css',
-    '@/styles/theme/dark.css',
-    '@/styles/links.css',
-    '@/styles/markdown.css',
-    '@/styles/fonts.css'
-  ],
+  styleResources: {
+    scss: [
+      // screen.scss needs to be first becuase
+      // the scss plugin module doesn't hoist
+      // the "@use" statement
+      '@/styles/mixins/screen.scss',
+      '@/styles/mixins/box-shadow.scss',
+      '@/styles/mixins/corner-radius.scss',
+      '@/styles/mixins/headings.scss',
+      '@/styles/mixins/label.scss',
+      '@/styles/mixins/ring.scss',
+      '@/styles/mixins/screen-reader.scss',
+      '@/styles/mixins/text-size.scss',
+      '@/styles/mixins/tracking.scss',
+      '@/styles/mixins/truncate.scss'
+    ]
+  },
 
   components: [
     {
@@ -26,7 +36,8 @@ export default {
   ],
 
   modules: [
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/style-resources'
   ],
 
   googleFonts: {

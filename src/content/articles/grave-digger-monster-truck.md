@@ -1,7 +1,7 @@
 ---
 title: Grave Digger (Monster Truck)
 url: https://en.wikipedia.org/wiki/Grave_Digger_(monster_truck)
-date: 2021-10-12
+date: 2021-10-10
 tags:
   - cars
   - trucks

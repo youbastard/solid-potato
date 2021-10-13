@@ -8,7 +8,7 @@ public_folder: /images
 collections:
   - name: "posts"
     label: "Posts"
-    label_singular: "New Post"
+    label_singular: "Post"
     folder: "src/content/articles"
     create: true
     slug: "{{slug}}"
@@ -21,7 +21,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "images"
     label: "Images"
-    label_singular: "New Image"
+    label_singular: "Image"
     folder: "src/content/images"
     create: true
     slug: "{{slug}}"

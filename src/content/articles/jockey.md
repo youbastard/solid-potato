@@ -1,5 +1,4 @@
 ---
-cover: /images/jockey.jpg
 date: 2020-07-04
 slug: jockey
 tags: [sports, horses, robots]

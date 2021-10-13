@@ -2,12 +2,12 @@
 title: Grave Digger (Monster Truck)
 url: https://en.wikipedia.org/wiki/Grave_Digger_(monster_truck)
 date: 2021-10-12
+slug: grave-digger-monster-truck
 tags:
   - cars
   - trucks
   - monsters
   - sports
-  - ""
 ---
 **Grave Digger** is a [monster truck](https://en.wikipedia.org/wiki/Monster_truck "Monster truck") racing team in the Feld Entertainment Monster Jam series founded by original driver [Dennis Anderson](https://en.wikipedia.org/wiki/Dennis_Anderson "Dennis Anderson"). \[It is] Considered one of the most famous and recognized monster trucks of all time.
 

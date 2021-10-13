@@ -15,7 +15,6 @@
 - [Ataxia](https://en.wikipedia.org/wiki/Ataxia)
 - [Grimace Scale](https://en.wikipedia.org/wiki/Grimace_scale_\(animals\))
 - [Cryptomnesia](https://en.wikipedia.org/wiki/Cryptomnesia)
-- [Trap Street](https://en.wikipedia.org/wiki/Trap_street)
 - [Optical Flat](https://en.wikipedia.org/wiki/Optical_flat)
 - [Ring of the fisherman](https://en.wikipedia.org/wiki/Ring_of_the_Fisherman)
 - Antikythera Mechanism
@@ -50,7 +49,6 @@
 - Action Park
 - Cyclocosmia (trap door spider)
 - Voynich Manuscript
-- Ikea Effect
 - Gordie Howe Hat Trick
 - Werewolfism Cures
 - Ferret

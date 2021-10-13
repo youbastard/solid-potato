@@ -1,0 +1,17 @@
+:root[data-theme="dark"] {
+  --bg-primary: var(--abyss);
+  --bg-secondary: var(--jet);
+  --bg-tertiary: var(--sonic-silver);
+  --bg-table-header: var(--nba-blue);
+
+  --bg-form: var(--light-roast);
+  --bg-form-accent: var(--abyss);
+
+  --text-primary: var(--white);
+  --text-secondary: var(--light-gray);
+  --text-form: var(--jet);
+  --text-form-accent: var(--white);
+  --text-table-header: var(--white);
+
+  --accent-border: var(--tart-orange);
+}

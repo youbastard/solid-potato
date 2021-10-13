@@ -1,0 +1,11 @@
+body {
+  font-family: var(--font-base);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+body[data-is-loaded="true"] {
+  // dont add this property until after the app has init
+  // because it makes the page flash between themes on load
+  transition: background-color 0.1s ease-out, color 0.1s ease-out;
+}

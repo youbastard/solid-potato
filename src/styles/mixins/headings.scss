@@ -1,0 +1,17 @@
+@mixin heading-xl {
+  @include text-5xl;
+  font-weight: bold;
+  color: var(--text-secondary);
+}
+
+@mixin heading-lg {
+  @include text-4xl;
+  font-weight: bold;
+  color: var(--text-secondary);
+}
+
+@mixin heading {
+  @include text-3xl;
+  font-weight: bold;
+  color: var(--text-secondary);
+}

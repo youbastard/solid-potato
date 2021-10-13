@@ -15,9 +15,9 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Wikipedia Url", name: "url", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD" }
       - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Image", name: "image", widget: "relation", collection: "images", search_fields: ["slug"], value_field: "{{slug}}", display_fields: ["slug"] }
+      - { label: "Image", name: "image", widget: "relation", collection: "images", search_fields: ["slug"], value_field: "{{slug}}", display_fields: ["slug"], required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "images"
     label: "Images"

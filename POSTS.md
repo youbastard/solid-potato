@@ -235,11 +235,7 @@
 
   Orphaned characters are extremely common as literary protagonists, especially in children’s and fantasy literature. The lack of parents leaves the...
 
-  
 
-  Ikea Effect - "self-assembly of products may allow people to both feel competent and display evidence of that competence."
-
-  
 
   
 

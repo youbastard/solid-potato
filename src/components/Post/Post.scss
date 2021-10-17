@@ -1,0 +1,37 @@
+.post {
+  position: relative;
+}
+
+.post__title {
+  margin: 1rem 0 2rem 0;
+  @include text-4xl;
+  font-weight: 800;
+}
+
+.post__date,
+.post__tags,
+.post__previous {
+  display: flex;
+}
+
+.post__article {
+  @include text-lg;
+
+  a {
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  p {
+    margin: 1.5rem 0;
+  }
+
+  blockquote {
+    border-left: .25rem solid var(--accent);
+    padding-left: .5rem;
+  }
+}

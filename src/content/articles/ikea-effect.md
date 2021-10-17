@@ -10,5 +10,5 @@ The **IKEA effect** is a [cognitive bias](https://en.wikipedia.org/wiki/Cogni
 
 A 2011 study found that subjects were willing to pay 63% more for furniture they had assembled themselves, than for equivalent pre-assembled items. One factor is that "self-assembly of products may allow people to both feel competent and display evidence of that competence." Also, the idea that they are "saving money by buying products that require some assembly" may make them feel like "smart shoppers."
 
->>>  "Labor alone can be sufficient to induce greater liking for the fruits of one's labor: even constructing a standardized bureau, an arduous, solitary task, can lead people to overvalue their (often poorly constructed) creations."
+> Labor alone can be sufficient to induce greater liking for the fruits of one's labor: even constructing a standardized bureau, an arduous, solitary task, can lead people to overvalue their (often poorly constructed) creations.
 

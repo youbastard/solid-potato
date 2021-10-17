@@ -1,8 +1,0 @@
-:root {
-  --bg-primary: var(--white);
-  --bg-secondary: var(--light-gray);
-  --bg-tertiary: var(--gray-x-11-gray);
-
-  --text-primary: var(--jet);
-  --text-secondary: var(--black);
-}

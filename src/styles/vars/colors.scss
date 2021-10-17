@@ -2,17 +2,17 @@
 
   /**
    * desaturated colors in order
-   * of luminence (light - dark)
+   * of luminence (dark - light)
    */
-  --white: #FFFFFF;
-  --light-gray: #F3F3F3;
-  --silver: hsla(0, 0%, 79%, 1);
-  --gray-x-11-gray: hsla(0, 2%, 75%, 1);
-  --quick-silver: hsla(0, 1%, 64%, 1);
-  --spanish-gray: hsla(0, 1%, 56%, 1);
-  --sonic-silver: hsla(0, 1%, 44%, 1);
-  --jet: hsla(0, 2%, 20%, 1);
-  --eerie-black: hsla(0, 3%, 8%, 1);
+   --black: #000000;
+   --darkly: #151110;
+   --vanta: #1a192a;
+   --cement: #CCCCCC;
+   --light-roast: #d0c4b3;
+   --creme: #e7e2db;
+   --elephant: #EBE9E7;
+   --greayt: #F3F3F3;
+   --white: #fff;
 
   /* 
    * mid-luminence (~40% - 60%)
@@ -25,24 +25,5 @@
   --yellow-green: hsla(94, 58%, 59%, 1);
   --mountain-meadow: hsla(162, 62%, 46%, 1);
   --spanish-blue: hsla(208, 49%, 45%, 1);
-  
-
-  /**
-   * nba colors
-   */
-  --nba-blue: #051c2d;
-  --nba-navy: #1D428A;
-  --nba-scarlet: #C8102E;
-
-
-  /**
-   * other colors
-   */
-   --abyss: #1a2e3d;
-   --darkly: #151110;
-   --cement: #CCCCCC;
-   --elephant: #EBE9E7;
-   --creme: #e7e2db;
-   --light-roast: #d0c4b3;
 
 }

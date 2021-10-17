@@ -1,3 +1,5 @@
+@import "@/styles/index.scss";
+
 .layout {
   display: flex;
   flex-direction: column;
@@ -5,24 +7,28 @@
   background-color: var(--bg-primary);
   color: var(--text-primary);
   font-family: var(--font-base);
+  margin: 0 auto;
 
   @include screen-between("xs", "xl") {
     max-width: 40rem;
   }
 }
 
-.layout__header,
-.layout__footer {
-  background-color: var(--bg-secondary);
+.layout__header {
+  margin: 2rem 0;
+  @include text-3xl;
+  @include tracking-wider;
+  font-weight: 700;
 }
+
+.layout__title {
+  text-transform: lowercase;
+  font-weight: 700;
+}
+
 
 .layout__main {
   margin: 0 auto;
   flex-grow: 1;
 }
 
-.layout__title {
-  font-size: 2rem;
-  letter-spacing: 1px;
-  text-transform: lowercase;
-}

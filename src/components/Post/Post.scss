@@ -1,11 +1,17 @@
 .post {
   position: relative;
+  margin-bottom: 2rem;
 }
 
 .post__title {
   margin: 1rem 0 2rem 0;
   @include text-4xl;
   font-weight: 800;
+}
+
+.post__read-more {
+  font-weight: 600;
+  color: var(--accent);
 }
 
 .post__date,
@@ -31,7 +37,10 @@
   }
 
   blockquote {
-    border-left: .25rem solid var(--accent);
-    padding-left: .5rem;
+    border-left: 0.25rem solid var(--accent);
+    padding-left: 1rem;
+    font-style: italic;
+    color: #3a3a3a;
+    margin: 3rem 0;
   }
 }

@@ -30,8 +30,7 @@ export default {
 
   buildModules: [
     '@nuxtjs/eslint-module',
-    'nuxt-svg-loader',
-    '@nuxtjs/google-fonts'
+    'nuxt-svg-loader'
   ],
 
   modules: [

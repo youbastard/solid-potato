@@ -30,7 +30,6 @@ export default {
 
   buildModules: [
     '@nuxtjs/eslint-module',
-    '@nuxtjs/stylelint-module',
     'nuxt-svg-loader',
     '@nuxtjs/google-fonts'
   ],
@@ -39,15 +38,6 @@ export default {
     '@nuxt/content',
     '@nuxtjs/style-resources'
   ],
-
-  googleFonts: {
-    families: {
-      Quicksand: {
-        wght: [400, 700],
-        ital: [400]
-      }
-    }
-  },
 
   content: {
     fullTextSearchFields: ['title', 'description', 'slug', 'text']

@@ -8,24 +8,25 @@
   color: var(--text-primary);
   font-family: var(--font-base);
   margin: 0 auto;
+  padding: 1rem;
 
-  @include screen-between("xs", "xl") {
+  @include screen-from("md") {
     max-width: 40rem;
+    padding: 1rem 0;
   }
 }
 
 .layout__header {
-  margin: 2rem 0;
-  @include text-3xl;
-  @include tracking-wider;
+  margin: 0;
   font-weight: 700;
-}
-
-.layout__title {
   text-transform: lowercase;
-  font-weight: 700;
+  @include text-2xl;
+  @include tracking-widest;
+  @include screen-from("md") {
+    margin: 2rem 0;
+    @include text-3xl;
+  }
 }
-
 
 .layout__main {
   margin: 0 auto;

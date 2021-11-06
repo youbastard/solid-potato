@@ -1,7 +1,7 @@
 <template>
   <article class="post-preview">
     <nuxt-link :to="`/post/${slug}`">
-      <h2 class="text-2xl font-bold">{{ title }}</h2>
+      <h3>{{ title }}</h3>
     </nuxt-link>
   </article>
 </template>
